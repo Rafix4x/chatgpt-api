@@ -1,0 +1,18 @@
+{
+  "port": 8082,
+  "host": "0.0.0.0",
+  "default_model": "gpt-6",
+  "request_timeout_sec": 300,
+  "retry_attempts": 4,
+  "retry_delay_sec": 2,
+  "log_requests": true,
+  "api_keys": [],
+  "chatgpt_base": "https://chatgpt.com",
+  "chatgpt_default_model": "gpt-6",
+  "chatgpt_accept_language": "en-US,en;q=0.9",
+  "chatgpt_user_agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/140.0.0.0 Safari/537.36",
+  "chatgpt_proxies": [],
+  "impersonate": "chrome_146",
+  "sessions": [],
+  "session_file": ""
+}

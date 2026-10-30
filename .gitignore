@@ -1,0 +1,6 @@
+bin/
+chatgpt-api
+session*.json
+*.log
+.env
+.DS_Store
